@@ -7,7 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://ozysx.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
-video: mountains.mp4 # add banner video. Add your video file to the folder video
+video: mountans.mp4 # add banner video. Add your video file to the folder video
 banner-title: Rusty Records # add banner title
 banner-desc: A collection of time-consumed records and memories of my journey in a silly post-apocalyptic world # add banner description
 
