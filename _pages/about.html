@@ -1,0 +1,24 @@
+---
+layout: default
+title: About
+permalink: /about/
+---
+<section class="about">
+  <a href="{{site.baseurl}}/" class="button_back"><i class="fa fa-long-arrow-left" aria-hidden="true"></i> Back</a>
+  <div class="about_box">
+    <div class="author">
+        <div class="author_image">
+          <img src="{{site.baseurl}}/assets/img/{% if site.author-pic %}{{site.author-pic}}{% endif %}" alt="Author image">
+        </div>
+        <div class="author_info">
+          <h2 class="author_title">Well hello there!</h2>
+          <p class="author_subtitle">Are you sure you typed the correct url? Are you sure you are not lost? Do you really intend to come here?</p>
+          <p class="author_subtitle">Well that’s weird, I guess I should say <b>welcome</b> then? I don’t know, I’ve never gotten this far before. Like it or not, I will be your tour guide in this silly <i>post-apocalyptic</i> world since I’m the only one <i>alive</i> here. Just call me <b>Ozys</b> for now.</p>
+        </div>
+      </div>
+
+      <div class="about_social">
+        {% include social_footer.html %}
+      </div>
+    </div> <!-- End Section Author -->
+</section>
