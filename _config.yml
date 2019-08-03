@@ -1,4 +1,4 @@
-logo: # add logo name
+logo: face.jpg # add logo name
 title: PPA HIMAFI ITB 2019
 description: > # this means to ignore newlines until "baseurl:"
 permalink: ':title/'
