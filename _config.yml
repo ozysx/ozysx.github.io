@@ -6,7 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "ozysx.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
-video: mountains.mp4 # add banner video. Add your video file to the folder video
+video: ppa.jpg # add banner video. Add your video file to the folder video
 banner-title: PPA HIMAFI ITB 2019 # add banner title
 banner-desc: Proses Penerimaan Anggota HIMAFI ITB 2019 # add banner description
 
@@ -14,14 +14,12 @@ banner-desc: Proses Penerimaan Anggota HIMAFI ITB 2019 # add banner description
 author-pic: face.jpg # your photo
 author-name: HIMAFI ITB # your name
 about-author: Himpunan Mahasiswa Fisika Institut Teknologi Bandung # about author
-email: still work # your email
-phone: I don't think this still work either # your pnone number
-website: https://ozysx.github.io # you website
+email: a # your email
+phone: a # your pnone number
 
 # Social link
-twitter_url:   # add url link 
-instagram_url: # add url link
-facebook_url:  # add url link
+twitter_url:  https://twitter.com/HIMAFI_ITB # add url link 
+instagram_url: https://www.instagram.com/himafi.itb/ # add url link
 
 # Tracker
 analytics:
