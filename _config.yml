@@ -1,37 +1,27 @@
 logo: # add logo name
-title: Ozys - Rusty Records
+title: PPA HIMAFI ITB 2019
 description: > # this means to ignore newlines until "baseurl:"
-  Ozys - Rusty Records. A totally-sane lone wanderer in a small post-apocalyptic world.
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "ozysx.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
 video: mountains.mp4 # add banner video. Add your video file to the folder video
-banner-title: Rusty Records # add banner title
-banner-desc: A collection of time-consumed records and memories of my journey in a silly post-apocalyptic world # add banner description
+banner-title: PPA HIMAFI ITB 2019 # add banner title
+banner-desc: Proses Penerimaan Anggota HIMAFI ITB 2019 # add banner description
 
 # Author settings
 author-pic: face.jpg # your photo
-author-name: Ozys # your name
-about-author: A <i>totally-(in)sane</i> lone wanderer in a small <i>post-apocalyptic</i> world. # about author
-email: Um.. I don't think this still work # your email
+author-name: HIMAFI ITB # your name
+about-author: Himpunan Mahasiswa Fisika Institut Teknologi Bandung # about author
+email: still work # your email
 phone: I don't think this still work either # your pnone number
 website: https://ozysx.github.io # you website
 
 # Social link
-google_url: https://plus.google.com/u/0/100242302176699579846   # add url link
 twitter_url:   # add url link 
 instagram_url: # add url link
-pinterest_url: # add url link
-steam_url: https://steamcommunity.com/id/ozys # add url link
 facebook_url:  # add url link
-
-# Disqus
-discus_identifier: mr-brown # add your discus identifier
-
-# Newsletter
-mailchimp: # add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
 
 # Tracker
 analytics:
